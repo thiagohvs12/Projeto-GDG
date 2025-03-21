@@ -34,14 +34,20 @@
 <h4 align="center">
 # :hammer: Funcionalidades do projeto
 </h4>
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 1`: Informações sobre o GDG
+- `Funcionalidade 2`: Informa
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
+
+
+## Linguagens, dependencias e libs utilizadas :books:
+
+- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
+- [React PDF](https://react-pdf.org/)
 
 
 
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Thiago Henrique V. S.</sub>](hhttps://github.com/thiagohvs12) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Uzires Portugal Laureano</sub>](https://github.com/Uzzipl) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Eder Henrique</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127261322?v=4" width=115><br><sub>Thiago Henrique V. S.</sub>](https://github.com/thiagohvs12) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/170525752?s=400&v=4" width=115><br><sub>Uzires Portugal Laureano</sub>](https://github.com/Uzzipl) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Eder Henrique</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
