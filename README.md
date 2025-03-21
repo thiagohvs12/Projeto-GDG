@@ -49,5 +49,5 @@
 
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127261322?v=4" width=115><br><sub>Thiago Henrique V. S.</sub>](https://github.com/thiagohvs12) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/170525752?s=400&v=4" width=115><br><sub>Uzires Portugal Laureano</sub>](https://github.com/Uzzipl) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Eder Henrique</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127261322?v=4" width=115><br><sub>Thiago Henrique V. S.</sub>](https://github.com/thiagohvs12) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/170525752?s=400&v=4" width=115><br><sub>Uzires Portugal Laureano</sub>](https://github.com/Uzzipl) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Eder Henrique</sub>](https://github.com/EderHenriquef) |
 | :---: | :---: | :---: |
