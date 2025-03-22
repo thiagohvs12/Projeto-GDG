@@ -29,11 +29,7 @@
 
 
 
-
-
-<h4 align="center">
 # :hammer: Funcionalidades do projeto
-</h4>
 - `Funcionalidade 1`: Informações sobre o GDG
 - `Funcionalidade 2`: Informa
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
